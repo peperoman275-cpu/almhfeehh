@@ -1,0 +1,4 @@
+{
+  "id": "did:alma:cdn",
+  "serviceEndpoint": "https://next-nefosys.vercel.app/"
+}

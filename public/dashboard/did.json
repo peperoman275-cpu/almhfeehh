@@ -1,0 +1,22 @@
+{
+  "id": "did:alma:dashboard",
+  "alsoKnownAs": [
+    "https://next-seven-pink.vercel.app"
+  ],
+  "controller": "did:alma:root",
+  "verificationMethod": [
+    {
+      "id": "did:alma:dashboard#main-key",
+      "type": "Ed25519VerificationKey2020",
+      "controller": "did:alma:dashboard",
+      "publicKeyMultibase": "TU_CLAVE_PUBLICA_ED25519_AQUI"
+    }
+  ],
+  "service": [
+    {
+      "id": "did:alma:dashboard#web",
+      "type": "DashboardService",
+      "serviceEndpoint": "https://next-seven-pink.vercel.app"
+    }
+  ]
+}

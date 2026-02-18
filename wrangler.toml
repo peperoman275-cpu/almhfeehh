@@ -1,0 +1,10 @@
+name = "almhfeehh"
+main = "index.js"
+compatibility_date = "2026-02-17"
+
+workers_dev = true
+preview_urls = false
+
+kv_namespaces = [
+  { binding = "KV", id = "948fcc8d22f04e0485b6479889fbde02" }
+]

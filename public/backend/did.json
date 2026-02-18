@@ -1,0 +1,22 @@
+{
+  "id": "did:alma:backend",
+  "alsoKnownAs": [
+    "https://TU_BACKEND_RENDER_O_RAILWAY"
+  ],
+  "controller": "did:alma:root",
+  "verificationMethod": [
+    {
+      "id": "did:alma:backend#main-key",
+      "type": "Ed25519VerificationKey2020",
+      "controller": "did:alma:backend",
+      "publicKeyMultibase": "LA_MISMA_CLAVE_PUBLICA_QUE_USA_EL_BACKEND"
+    }
+  ],
+  "service": [
+    {
+      "id": "did:alma:backend#api",
+      "type": "AlmaBackendAPI",
+      "serviceEndpoint": "https://TU_BACKEND_RENDER_O_RAILWAY"
+    }
+  ]
+}

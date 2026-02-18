@@ -1,0 +1,4 @@
+{
+  "id": "did:alma:api",
+  "serviceEndpoint": "https://cerebro-nexo-bankend.onrender.com"
+}

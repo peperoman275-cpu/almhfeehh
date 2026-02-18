@@ -1,0 +1,9 @@
+{
+  "frontend": "https://next-seven-pink.vercel.app",
+  "backend": "https://cerebro-nexo-bankend.onrender.com",
+  "cerebro": "https://nefosys-brain-production-c085.up.railway.app",
+  "unificados": "https://unificados-production-bd10.up.railway.app",
+  "postgres_host": "postgres-production-69d0.up.railway.app",
+  "postgres_proxy": "metro.proxy.rlwy.net:10457",
+  "neon_connection": "postgresql://neondb_owner:npg_migXfZTy18zs@ep-divine-tooth-ai598hqq-pooler.c-4.us-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require"
+}
